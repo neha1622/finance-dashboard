@@ -17,6 +17,10 @@ The focus was on **clean UI, smooth UX, and real-time feedback**.
 
 ---
 
+####Live Demo 
+[Click here to view the project](finance-dashboard-neha.vercel.app)
+
+
 ## 🔧 Prerequisites
 
 Make sure you have installed:
